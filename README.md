@@ -1,6 +1,6 @@
 # PhysCallbacksManual
 
-## In disabled component in script, callbacks is disabled too.
+## In disabled component-script, callbacks is disabled too.
 
 Default callbacks is still run if component disabled (OnCollisionEnter, OnCollisionStay, OnCollisionExit).
 
